@@ -1,0 +1,50 @@
+
+
+
+
+
+.popularLinks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 32px;
+}
+.leftLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1C1C1C;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    border:none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.rightLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1C1C1C;
+    text-align: center;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px; /* 153.846% */
+    border:none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.popularPostsCard{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 24px;
+    row-gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+}

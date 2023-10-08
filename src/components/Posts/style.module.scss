@@ -1,0 +1,51 @@
+.activeLink{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+.leftLink{
+    display: flex;
+    align-items: center;
+    border:none;
+    background-color: transparent;
+    cursor: pointer;
+    color: #1C1C1C;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+.rightLink{
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    cursor: pointer;
+    color: #000;
+    border-color: #969696 0.5px solid;
+    opacity: 0.5;
+    border-radius: 8px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px; 
+    display: flex;
+    width: 184px;
+    height: 40px;
+    padding: 8px 0px 8px 12px;
+    justify-content: flex-end;
+   
+}
+.flex{
+    display: flex;
+}
+.wrapIcon{
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+    margin-left: 12px;
+}
+.icons{
+    display: flex;
+    gap: 12px;
+}

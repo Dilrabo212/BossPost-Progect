@@ -1,0 +1,219 @@
+.btn {
+    display: inline-flex;
+    padding: 16px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    border: none;
+    background: #1B5BF7;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    cursor: pointer;
+
+}
+.modal{
+    display: flex;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.title {
+    color: #1C1C1C !important;
+    font-family: Inter;
+    font-size: 20px !important;
+    font-style: normal ;
+    font-weight: 500 !important;
+    line-height: 28px !important; /* 140% */
+}
+.subtitle{
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+.icon{
+    margin: 0;
+    padding: 0;
+    margin-right: 10px !important;
+}
+.modalBox{
+    padding: 30px;
+}
+.inp {
+    color: #585757;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width:400px !important;
+    padding: 8px 12px;
+    justify-content: flex-end;
+    border:1px solid #E8E8E8;
+    border-radius: 8px;
+    outline: none;
+    text-transform: lowercase;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.label{
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+margin-bottom: 40px;
+padding-bottom: 20px;
+}
+
+.login {
+    width: 100%;
+    display: flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex: 1 0 0;
+    border-radius: 8px;
+    background: #1C1C1C;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.08), 0px 2px 1px 0px rgba(0, 0, 0, 0.06), 0px 1px 3px 0px rgba(0, 0, 0, 0.10);
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    cursor: pointer;
+}
+
+.blue {
+    color: #1B5BF7 !important;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.confirm{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+.chack{
+    width: 20px;
+height: 20px;
+margin-right: 8px !important;
+}
+.text{
+    margin-left: 10px;
+    width: 350px;
+    margin-bottom: 16px;
+}
+.google{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    background: transparent;
+    color: #1C1C1C;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    border:1px solid #E8E8E8;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.hr{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #E8E8E8;
+    border: 1px solid #E8E8E8;
+    width: 100%;
+
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  margin: 0 auto;
+}
+
+.textp{
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+.entr{
+    color: #0085FF;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+border:none;
+background-color: transparent;
+cursor: pointer;
+margin-top: 10px;
+}
+
+.question{
+    color: #0085FF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+margin-left: 30px;
+border: none;
+background-color: transparent;
+}
+.questionText{
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+.remember{
+    color: #585757;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}

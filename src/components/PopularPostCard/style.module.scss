@@ -1,0 +1,62 @@
+.card{
+  width: 450px;
+    display: flex;
+    column-gap: 26px;
+    margin: 20px;
+    align-items: center;
+}
+.infoContent{
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px; 
+}
+.rowWeight{
+    display: flex;
+    column-gap: 8px;
+    align-items: center;
+}
+.date{
+    color: #969696;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+    letter-spacing: 0.48px;
+    text-transform: uppercase;
+}
+.dot{
+    color: #969696;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 153.846% */
+}
+.userName{
+    color: #969696;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 153.846% */
+}
+.text{
+    color: #1C1C1C;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+align-self: stretch;
+}
+.imageContent{
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}

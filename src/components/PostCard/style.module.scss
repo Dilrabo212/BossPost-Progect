@@ -1,0 +1,125 @@
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    padding-top: 40px;
+    padding-bottom: 150px;
+    
+}
+.cardBody{
+    display: flex;
+    width: 100%;
+    margin: 24px;
+}
+.img{
+    max-width: 346px;
+    height: 270px;
+    border-radius: 10px;
+    gap: 24px;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 24px;
+    width: 782px;
+    height: 270px;
+}
+
+.title{
+    display: flex;
+    gap: 20px;
+}
+.userImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.userInfo{
+    display: flex;
+    align-items: center;
+}
+.sectionFooter{
+    display: flex;
+   align-items: center;
+  
+}
+.sectionTitle{
+    color: #0085FF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+    margin-right: 12px;
+}
+.create{
+    color: #969696;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+   
+}
+.postTitle{
+    margin-bottom: 24px;
+    margin-top: 24px;
+    color: #1C1C1C;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 133.333% */
+}
+.postBody{
+    overflow: hidden;
+    color: #585757;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 140% */
+}
+.userName{
+    color: #1C1C1C;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+}
+.sectionFooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.readMore{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.readMoreBtn{
+    display: flex;
+    padding: 4px 8px;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    border: 1px solid #E8E8E8;
+    background: #FFF;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.06);
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 4px;
+}

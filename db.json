@@ -1,0 +1,482 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Post 1",
+      "body": "<p>Постановлением Кабинета Министров № 294 утверждены Положение о Молодежной индустриально-предпринимательской зоне и Фонде поддержки молодых предпринимателей</p>",
+      "created_at": "2023-09-09T11:36:26.861Z",
+      "views": 326,
+      "image": "https://picsum.photos/360/300/?random=1",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=134",
+        "name": "Akbarali",
+        "surname": "Khasanov"
+      }
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Post 2",
+      "body": "<p>Сегодня объявлена новая инициатива по охране окружающей среды и снижению выбросов углекислого газа в атмосферу.</p>",
+      "created_at": "2023-09-10T14:20:45.123Z",
+      "views": 542,
+      "image": "https://picsum.photos/360/300/?random=2",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=135",
+        "name": "Elena",
+        "surname": "Petrova"
+      }
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "Post 3",
+      "body": "<p>Сегодня открылся новый магазин в нашем городе. Приходите и получите скидку на первую покупку!</p>",
+      "created_at": "2023-09-11T09:45:12.555Z",
+      "views": 219,
+      "image": "https://picsum.photos/360/300/?random=3",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=136",
+        "name": "John",
+        "surname": "Smith"
+      }
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "Post 4",
+      "body": "<p>Наша компания рада объявить о новом проекте, который поможет улучшить качество жизни в нашем районе.</p>",
+      "created_at": "2023-09-12T16:30:58.732Z",
+      "views": 876,
+      "image": "https://picsum.photos/360/300/?random=4",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=137",
+        "name": "Maria",
+        "surname": "Garcia"
+      }
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "Post 5",
+      "body": "<p>Вчера состоялся концерт с участием известных артистов. Отличное шоу и незабываемые впечатления!</p>",
+      "created_at": "2023-09-13T20:15:34.998Z",
+      "views": 654,
+      "image": "https://picsum.photos/360/300/?random=5",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=138",
+        "name": "David",
+        "surname": "Brown"
+      }
+    },
+    {
+      "userId": 6,
+      "id": 6,
+      "title": "Post 6",
+      "body": "<p>Сегодняшний день отличается хорошей погодой и солнечным настроением. Наслаждайтесь летом!</p>",
+      "created_at": "2023-09-14T12:10:21.789Z",
+      "views": 432,
+      "image": "https://picsum.photos/360/300/?random=6",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=139",
+        "name": "Anna",
+        "surname": "Johnson"
+      }
+    },
+    {
+      "userId": 7,
+      "id": 7,
+      "title": "Post 7",
+      "body": "<p>Сегодня в нашем городе прошла благотворительная акция. Спасибо всем, кто принял участие!</p>",
+      "created_at": "2023-09-15T18:55:47.621Z",
+      "views": 743,
+      "image": "https://picsum.photos/360/300/?random=7",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=140",
+        "name": "Michael",
+        "surname": "Miller"
+      }
+    },
+    {
+      "userId": 8,
+      "id": 8,
+      "title": "Post 8",
+      "body": "<p>Завтра вечером состоится важное собрание жителей района. Приглашаем всех принять участие.</p>",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      }
+    },
+    {
+      "userId": 9,
+      "id": 9,
+      "title": "Post 9",
+      "body": "<p>Сегодня в историческом музее открылась новая выставка. Приходите узнать больше о нашей истории!</p>",
+      "created_at": "2023-09-17T15:40:29.432Z",
+      "views": 398,
+      "image": "https://picsum.photos/360/300/?random=9",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=142",
+        "name": "Daniel",
+        "surname": "Martinez"
+      }
+    },
+    {
+      "userId": 10,
+      "id": 10,
+      "title": "Post 10",
+      "body": "<p>Наши спортсмены достигли отличных результатов на мировых соревнованиях. Поздравляем их с победой!</p>",
+      "created_at": "2023-09-18T21:05:03.567Z",
+      "views": 754,
+      "image": "https://picsum.photos/360/300/?random=10",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=143",
+        "name": "Olivia",
+        "surname": "Johnson"
+      }
+    },
+    {
+      "userId": 11,
+      "id": 11,
+      "title": "Post 11",
+      "body": "<p>Сегодня у нас в городе проводятся культурные мероприятия. Не упустите шанс посетить их!</p>",
+      "created_at": "2023-09-19T12:20:18.987Z",
+      "views": 632,
+      "image": "https://picsum.photos/360/300/?random=11",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=144",
+        "name": "Liam",
+        "surname": "Davis"
+      }
+    },
+    {
+      "userId": 12,
+      "id": 12,
+      "title": "Post 12",
+      "body": "<p>Сегодня у нас в городе проводятся культурные мероприятия. Не упустите шанс посетить их!</p>",
+      "created_at": "2023-09-20T17:10:25.326Z",
+      "views": 512,
+      "image": "https://picsum.photos/360/300/?random=12",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=145",
+        "name": "Liam",
+        "surname": "Davis"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1696739612102,
+      "title": "qjk",
+      "body": "<p>qgsk</p>",
+      "created_at": "2023-10-08T04:33:32.102Z",
+      "views": 326,
+      "image": "https://picsum.photos/360/300/?random=1"
+    }
+  ],
+  "popular-posts": [
+    {
+      "userId": 8,
+      "id": 8,
+      "title": "Post 8",
+      "body": "<p>Завтра вечером состоится важное собрание жителей района. Приглашаем всех принять участие.</p>",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      }
+    },
+    {
+      "userId": 9,
+      "id": 9,
+      "title": "Post 9",
+      "body": "<p>Сегодня в историческом музее открылась новая выставка. Приходите узнать больше о нашей истории!</p>",
+      "created_at": "2023-09-17T15:40:29.432Z",
+      "views": 398,
+      "image": "https://picsum.photos/360/300/?random=9",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=142",
+        "name": "Daniel",
+        "surname": "Martinez"
+      }
+    },
+    {
+      "userId": 10,
+      "id": 10,
+      "title": "Post 10",
+      "body": "<p>Наши спортсмены достигли отличных результатов на мировых соревнованиях. Поздравляем их с победой!</p>",
+      "created_at": "2023-09-18T21:05:03.567Z",
+      "views": 754,
+      "image": "https://picsum.photos/360/300/?random=10",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=143",
+        "name": "Olivia",
+        "surname": "Johnson"
+      }
+    },
+    {
+      "userId": 11,
+      "id": 11,
+      "title": "Post 11",
+      "body": "<p>Сегодня у нас в городе проводятся культурные мероприятия. Не упустите шанс посетить их!</p>",
+      "created_at": "2023-09-19T12:20:18.987Z",
+      "views": 632,
+      "image": "https://picsum.photos/360/300/?random=11",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=144",
+        "name": "Liam",
+        "surname": "Davis"
+      }
+    },
+    {
+      "userId": 12,
+      "id": 12,
+      "title": "Post 12",
+      "body": "<p>Сегодня у нас в городе проводятся культурные мероприятия. Не упустите шанс посетить их!</p>",
+      "created_at": "2023-09-20T17:10:25.326Z",
+      "views": 512,
+      "image": "https://picsum.photos/360/300/?random=12",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=145",
+        "name": "Liam",
+        "surname": "Davis"
+      }
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "Post 3",
+      "body": "<p>Сегодня открылся новый магазин в нашем городе. Приходите и получите скидку на первую покупку!</p>",
+      "created_at": "2023-09-11T09:45:12.555Z",
+      "views": 219,
+      "image": "https://picsum.photos/360/300/?random=3",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=136",
+        "name": "John",
+        "surname": "Smith"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "123",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "image": "https://picsum.photos/360/300/?random=1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "123",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "image": "https://picsum.photos/360/300/?random=2"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "123",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "image": "https://picsum.photos/360/300/?random=3"
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "123",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "image": "https://picsum.photos/360/300/?random=4"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "123",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "image": "https://picsum.photos/360/300/?random=5"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "123",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6"
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "password": "123",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "image": "https://picsum.photos/360/300/?random=7"
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "password": "123",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140",
+      "image": "https://picsum.photos/360/300/?random=8"
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "password": "123",
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "image": "https://picsum.photos/360/300/?random=9"
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "password": "123",
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "image": "https://picsum.photos/360/300/?random=10"
+    },
+    {
+      "id": 11,
+      "username": "user11",
+      "password": "123",
+      "name": "Stefano Richi",
+      "email": "steffi@karina.biz",
+      "phone": "024-648-3804",
+      "image": "https://picsum.photos/360/300/?random=11"
+    },
+    {
+      "id": 12,
+      "username": "user12",
+      "password": "123",
+      "name": "Fernadona DuBuque",
+      "email": "ferrri@karina.biz",
+      "phone": "024-648-3804",
+      "image": "https://picsum.photos/360/300/?random=12"
+    },
+    {
+      "id": 1694252587266,
+      "username": "user1694252587266",
+      "password": "123",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6"
+    },
+    {
+      "id": 1694252664022,
+      "username": "user1694252664022",
+      "password": "123",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6"
+    },
+    {
+      "id": 1694252668581,
+      "username": "user1694252668581",
+      "password": "123",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6"
+    },
+    {
+      "password": "ASESGFAERHEA",
+      "name": "asdfghjkl",
+      "id": "1696690253710"
+    },
+    {
+      "username": "armagedon",
+      "password": "armagedon",
+      "name": "dq",
+      "id": "1696698396853"
+    }
+  ],
+  "avatars": [
+    {
+      "id": 1,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-zena.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-elijah.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-george.jpg"
+    },
+    {
+      "id": 4,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-james.jpg"
+    },
+    {
+      "id": 5,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-javier.jpg"
+    },
+    {
+      "id": 6,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-roxanne.jpg"
+    },
+    {
+      "id": 7,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg"
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "isViewed": false,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-zena.jpg"
+    },
+    {
+      "id": 2,
+      "isViewed": true,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-elijah.jpg"
+    },
+    {
+      "id": 3,
+      "isViewed": false,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-george.jpg"
+    },
+    {
+      "id": 4,
+      "isViewed": false,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-james.jpg"
+    },
+    {
+      "id": 5,
+      "isViewed": true,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-javier.jpg"
+    },
+    {
+      "id": 6,
+      "isViewed": false,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-roxanne.jpg"
+    },
+    {
+      "id": 7,
+      "isViewed": false,
+      "url": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg"
+    }
+  ]
+}

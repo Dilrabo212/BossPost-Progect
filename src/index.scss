@@ -1,0 +1,23 @@
+@import'./sass/variables.scss';
+@import'./sass/fonts.scss';
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  font-family: 'Inter';
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.container{
+  max-width: 1500px;
+margin: 0 auto;
+padding: 15px;
+}
+li{
+  list-style: none;
+}
